@@ -2,6 +2,6 @@
 
 ##### What would you do?!
 
-[Go downstairs and check](basement.md)
+[Go downstairs and check](basement.md)  
 
 [Stay in bed](louder.md)
