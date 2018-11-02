@@ -2,6 +2,6 @@
 
 ##### What would you do?!
 
-[Go to basement](basement.md)
+[Go to basement](lil-sis.md)
 
 [Run back upstairs and wake your parents up](parents.md)
