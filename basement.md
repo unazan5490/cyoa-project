@@ -2,6 +2,6 @@
 
 ##### What would you do?!
 
-[Go to basement](cyop-project/basement.md)
+[Go to basement](basement.md)
 
-[Run back upstairs and wake your parents up](cyop-project/parents.md)
+[Run back upstairs and wake your parents up](parents.md)
