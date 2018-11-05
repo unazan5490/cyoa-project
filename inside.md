@@ -1,3 +1,5 @@
+![alt text](inside1.png)
+
 ### Someone is trying to open the door!!
 ##### Where will you hide?
 [In the Closet!](sneeze.md)
