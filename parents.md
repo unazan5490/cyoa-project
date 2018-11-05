@@ -2,4 +2,6 @@
 
 ##### What would you do?!
 
-[Run back upstairs and wake your parents up](parents.md)
+[Hide](inside.md)  
+
+[Open the door](UR-DEAD.md)
