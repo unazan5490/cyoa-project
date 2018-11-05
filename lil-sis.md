@@ -1,4 +1,4 @@
-### You Found your little sis talking to the doll!!
+### You found out your little sister's doll is talking to her!!
 
 ##### What would you do?!
 
