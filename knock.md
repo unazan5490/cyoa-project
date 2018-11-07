@@ -1,8 +1,7 @@
 
 ![alt text](pic4.jpg)
 
-### You found out your parents are both dead and there’s a knock on your door!
-
+### there's a knock on your door!
 ##### What would you do?!
 
 [Hide](inside.md)  
