@@ -1,6 +1,6 @@
 ![alt text](door1.png)
 
-### There’s a knock on your door, You know its not your parents
+### There’s a knock on your door
 
 ##### What do you do?!
 [Hide](inside.md)  
