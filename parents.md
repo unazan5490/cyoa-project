@@ -1,9 +1,7 @@
-![alt text](pic4.jpg)
+![alt text](door1.png)
 
-### You found out your parents are both dead and there’s a knock on your door!
 
-##### What would you do?!
 
-[Hide](inside.md)  
+### There’s a knock on your door
 
-[Open the door](UR-DEAD.md)
+[You know its not your parents](knock.md)
